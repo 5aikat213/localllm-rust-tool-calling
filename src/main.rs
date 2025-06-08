@@ -2,7 +2,7 @@ use actix_web::{web, App, HttpServer, HttpResponse, error::ErrorInternalServerEr
 use serde::{Deserialize, Serialize};
 use log::{info, error};
 
-mod model;
+mod llm;
 mod tools;
 mod handler;
 

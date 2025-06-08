@@ -1,4 +1,4 @@
-# Simple Tool Calling
+# Simple Rust + Local LLM Tool Calling
 
 A Rust-based chat server with tool calling capabilities, including web search functionality.
 
@@ -13,7 +13,7 @@ A Rust-based chat server with tool calling capabilities, including web search fu
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Simple-Tool-Calling.git
+   git clone https://github.com/5aikat213/localllm-rust-tool-calling.git
    cd Simple-Tool-Calling
    ```
 
